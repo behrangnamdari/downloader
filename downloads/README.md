@@ -5,6 +5,7 @@
 - [WhiteDNS-1.1.0-arm64-v8a](./WhiteDNS-1.1.0-arm64-v8a)
 - [WhiteDNS-1.1.0-universal](./WhiteDNS-1.1.0-universal)
 - [videoplayback](./videoplayback)
+- [watch](./watch)
 
 ---
 
